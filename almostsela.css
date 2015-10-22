@@ -1,0 +1,28 @@
+body {
+
+	background: url("http://quotego.biz/wp-content/uploads/2014/08/inspirational-pictures-about-life-without-words---cool-jonathan-holowka--the-10-most-inspirational-videos-on-the-internet-wallpaper-hd.jpg");
+	background-repeat: no-repeat;	
+	background-size: cover; 
+
+}
+
+#turtle
+{
+	text-align: center;
+}
+
+.header {
+background-color:black;
+    color:white;
+    padding:5px;
+    font-size:50px;
+    text-align: center;
+    font-family: "Times New Roman";
+
+}
+
+.first
+{
+	color:white;
+	text-align: center;
+}
