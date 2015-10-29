@@ -1,17 +1,16 @@
 <html>
 <head>
 
-<title> you chose to see more </title>
+<title> Contact </title>
 
 <link rel="stylesheet" href="almostsela.css">
 
 </head>
-<body class="two">
-<h1 class="twoh"> there is not much to see </h1>
+<body class="three">
+<h1 class="header"> ways to contact me </h1>
 
 <center>
 <a href="almostsela.html"> Home page please</a>
-
 </center>
 
 </body>
